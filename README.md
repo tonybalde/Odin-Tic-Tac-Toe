@@ -1,2 +1,5 @@
-# Odin-Tic-Tac-Toe
- Odin Tic Tac Toe Projec
+# Tic Tac Toe
+
+## The Odin Project JS Path Challenge
+
+# I used the code from "codingwithrobz" and made some tweaks 
