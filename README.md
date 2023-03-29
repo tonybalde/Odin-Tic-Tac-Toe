@@ -4,4 +4,4 @@
 
 # I used the code from "codingwithrobz" and made some tweaks 
 
-## You can try this little game at: 
+## You can try this little game at: https://tonybalde.github.io/Odin-Tic-Tac-Toe/
